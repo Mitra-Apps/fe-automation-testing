@@ -3,6 +3,6 @@
     "cypress": "^13.6.1"
   },
   "scripts": {
-    "opency": "cypress open"
+    "opency": "npx cypress@13.6.0 open"
   }
 }
